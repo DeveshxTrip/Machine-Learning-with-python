@@ -7,3 +7,4 @@ print(numbers_array[2:5]) # 3rd to 5th
 print(numbers_array[:-5]) # beginning to 4th
 print(numbers_array[5:])  # 6th to end
 print(numbers_array[:])   # beginning to end
+
